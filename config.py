@@ -1,0 +1,6 @@
+customhost  = 'databasenxt.ch48gkkem4s5.ap-south-1.rds.amazonaws.com'
+customuser  = 'admin'
+customdb    = 'databasenxt'
+custompass  = 'yeshu1234'
+custombucket= 'projectnxt'
+customregion= 'mumbai'
